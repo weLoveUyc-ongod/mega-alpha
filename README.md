@@ -1,4 +1,4 @@
-### SUPERMEGAGENIUSMALE
+### 
 
 <!--
 **mega-alpha/mega-alpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
